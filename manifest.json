@@ -1,6 +1,6 @@
 {
   "name": "ElasticSearch API Search",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stick to specific ES Version while searching.",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
